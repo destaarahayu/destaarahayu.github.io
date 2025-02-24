@@ -4,20 +4,15 @@ body {
     text-align: center ;
     padding: 50px;
 }
-.label {
-    background:#bed7ff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgb(246, 198, 198);
-    display: inline-block;
-    text-align: justify;
-}
 button {
-    background-color: #ffb3b3;
+    background-color: #244370;
     color: white;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
     margin-top: 10px;
     text-align: justify;
+}
+h2 {
+    color : #410c03
 }
